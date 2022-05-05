@@ -1,4 +1,4 @@
-var buttonShow = document.querySelector('.profile__info_edit-button');
+var buttonShow = document.querySelector('.profile__edit-button');
 var buttonHide = document.querySelector('.popup__close_link');
 var popup = document.querySelector('.popup');
 
@@ -28,8 +28,8 @@ function formSubmitHandler (evt) {
     
     evt.preventDefault(); // Эта строчка отменяет стандартную отправку формы.                                       // Так мы можем определить свою логику отправки.
                                                 // О том, как это делать, расскажем позже.
-    document.querySelector('.profile__info_name').textContent=nameInput.value;
-    document.querySelector('.profile__info_job').textContent=jobInput.value;
+    document.querySelector('.profile__name').textContent=nameInput.value;
+    document.querySelector('.profile__job').textContent=jobInput.value;
     popup.classList.remove('popup_opened');
 }
 

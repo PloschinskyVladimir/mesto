@@ -1,12 +1,12 @@
-.popup__content_job {
+.popup__name {
     width: 358px;
     height: 27px;
-    margin-bottom: 48px;
+    margin: 54px auto 30px;
     opacity: 0.2;
     border: 1px solid #000000;
 }
 @media screen and (max-width: 510px) {
-    .popup__content_job {
+    .popup__name {
         max-width: 238px;
     }
 }

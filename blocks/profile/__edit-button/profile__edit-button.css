@@ -1,12 +1,12 @@
-.profile__info_edit-button {
+.profile__edit-button {
     width: 24px;
     height: 24px;
-    background-image: url(../../../../image/editButton.svg);
+    background-image: url(../../../image/editButton.svg);
     background-position: center center;
     background-repeat: no-repeat;
     border: 1px solid #fff;
     margin-left: 15px;
 }
-.profile__info_edit-button:hover {
+.profile__edit-button:hover {
     opacity: 0.6;
 }
