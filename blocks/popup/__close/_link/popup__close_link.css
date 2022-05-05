@@ -1,0 +1,11 @@
+.popup__close_link {
+    position: absolute;
+    right: 0;
+    top: -35px;
+}
+@media screen and (max-width: 370px) {
+    .popup__close_link {
+        right: 25px;
+        top: -40px;
+    }
+}

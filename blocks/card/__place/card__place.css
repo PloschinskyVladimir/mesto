@@ -1,0 +1,9 @@
+.card__place {
+    width: 190px;
+    color: #000;
+    font-weight: 900;
+    font-size: 24px;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    overflow: hidden;
+}
