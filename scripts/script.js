@@ -1,5 +1,5 @@
 var buttonShow = document.querySelector('.profile__edit-button');
-var buttonHide = document.querySelector('.popup__close_link');
+var buttonHide = document.querySelector('.popup__close-link');
 var popup = document.querySelector('.popup');
 
 buttonShow.addEventListener ('click', function(evt) {
