@@ -1,0 +1,7 @@
+.profile__firstline {
+    display: flex;
+    flex-direction: row;
+    align-content: center;
+    justify-content: flex-start;
+    align-items: flex-start;
+}
