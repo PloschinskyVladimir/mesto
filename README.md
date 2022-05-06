@@ -48,18 +48,16 @@ mesto
             __body/                                        #директория элемента popup__body
                 popup__body.css                            #реализация элемента popup__body в технологии CSS
             __close/                                       #директория элемента popup__close
-                _link/                                     #директория модификатора popup__close_link
-                    popup__close_link.css                  #реализация модификатора popup__close_link в технологии CSS
                 popup__close.css                           #реализация элемента popup__close в технологии CSS
+            __close-link/                                  #директория модификатора popup__close-link
+                popup__close-link.css                      #реализация модификатора popup__close-link в технологии CSS
             __content/                                     #директория элемента popup__content
-                _job/                                      #директория модификатора popup__content_job
-                    popup__content_job.css                 #реализация модификатора popup__content_job в технологии CSS
-                _name/                                     #директория модификатора popup__content_name
-                    popup__content_name.css                #реализация модификатора popup__content_name в технологии CSS
                 popup__content.css                         #реализация элемента popup__content в технологии CSS
+            __job/                                      #директория элемента popup__job
+                popup__job.css                         #реализация элемента popup__job в технологии CSS
+            __name/                                     #директория элемента popup__name
+                popup__name.css                        #реализация элемента popup__name в технологии CSS
             __save/                                        #директория элемента popup__save
-                _link/                                     #директория модификатора popup__save_link
-                    popup__save_link.css                   #реализация модификатора popup__save_link в технологии CSS
                 popup__save.css                            #реализация элемента popup__save в технологии CSS
             __title/                                       #директория элемента popup__title
                 popup__title.css                           #реализация элемента popup__title в технологии CSS
@@ -74,13 +72,13 @@ mesto
             __edit/                                        #директория элемента profile__edit
                 profile__edit.css                          #реализация элемента profile__edit в технологии CSS
             __info/                                        #директория элемента profile__info
-                _edit-button/                              #директория модификатора profile__info_edit-button
-                    profile__info_edit-button.css          #реализация модификатора profile__info_edit-button в технологии CSS
-                _job/                                      #директория модификатора profile__info_job
-                    profile__info_job.css                  #реализация модификатора profile__info_job в технологии CSS
-                _name/                                     #директория модификатора profile__info_name
-                    profile__info_name.css                 #реализация модификатора profile__info_name в технологии CSS
                 profile__info.css                          #реализация элемента profile__info в технологии CSS
+            __edit-button/                                 #директория элемента profile__edit-button
+                profile__edit-button.css                   #реализация элемента profile__edit-button в технологии CSS
+            __job/                                         #директория элемента profile__job
+                profile__job.css                           #реализация элемента profile__job в технологии CSS
+            __name/                                        #директория элемента profile__name
+                profile__name.css                          #реализация элемента profile__name в технологии CSS
             profile.css                                    #реализация блока profile в технологии CSS
         fonts/                                             #директория шрифтов страницы
         scripts/                                           #директория блоека scripts
