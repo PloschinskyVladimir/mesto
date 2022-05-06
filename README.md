@@ -1,7 +1,7 @@
 # Проект: места России
 Ссылка на GH Pages: https://ploschinskyvladimir.github.io/mesto/
 
-Сайт разработан с использование только HTML и CSS
+Сайт разработан с использование только HTML и CSS.
 В CSS используются:
 
 mesto
