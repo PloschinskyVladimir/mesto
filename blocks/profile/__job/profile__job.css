@@ -1,7 +1,8 @@
-.profile__info_job {
+.profile__job {
     margin-top: 16px;
     font-size: 18px;
     font-weight: 400;
+    width: 100%;
 }
 @media screen and (max-width: 690px) {
     .profile__info_job {
